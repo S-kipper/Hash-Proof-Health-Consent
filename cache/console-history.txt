@@ -1,0 +1,80 @@
+await c.consents(3);
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3");
+await c.consents(2);
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3");
+await c.consents(1);
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3");
+await c.consents(0);
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3");
+stored = await c.consents(4)
+stored = await c.consents(3)
+stored = await c.consents(1)
+)
+  "0x5FbDB2315678afecb367f032d93F642f64180aa3"  // your contract address
+  "ConsentRegistry",
+let c = await ethers.getContractAt(
+)
+  "0x5FbDB2315678afecb367f032d93F642f64180aa3"  // your contract address
+  "ConsentRegistry",
+let c = await ethers.getContractAt(
+stored
+let stored = await c.consents(3)
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+stored
+let stored = await c.consents(2)
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+let stored = await c.consents(1)
+stored
+let stored = await c.consents(0)
+let c = await ethers.getContractAt("ConsentRegistry","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+stored
+let stored = await c.consents(0)
+stored.dataHash
+const stored = await c.consents(0)
+const c = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+stored
+const stored = await c.consents(0)
+const c = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+clear
+npx hardhat run scripts/deploy.js --network localhost
+const c = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const c = await
+ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const c = await 
+const stored = await c.consents(6)    stored.dataHash
+const c = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const stored = await c.consents(0)    stored.dataHash
+const c = await ethers.getContractAt("ConsentRegistry", " 0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const stored = await c.consents(0)    stored.dataHash
+const c = await ethers.getContractAt("ConsentRegistry", " 0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const stored = await c.consents(0)    stored.da
+const c = await ethers.getContractAt("ConsentRegistry", " 0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const stored
+const c = await ethers.getContractAt("ConsentRegistry", " consent_1764310627220.enc.json")
+const stored.dataHash
+const c = await ethers.getContractAt("ConsentRegistry", " consent_1764310627220.enc.json")
+const stored = await c.consents(0)    // or ID 1, 2, etc.
+const c = await ethers.getContractAt("ConsentRegistry", " consent_1764310627220.enc.json")
+const stostored.dataHash
+const c = await ethers.getContractAt("ConsentRegistry", " consent_1764310627220.enc.json")
+const stored = await c.consents(0)    // or ID 1, 2, etc.
+const c = await ethers.getContractAt("ConsentRegistry", "YOUR_CONTRACT_ADDRESS")
+await c.consents(2)
+await c.consents(1)
+await c.consents(0)
+const c = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await c.consents(1)
+const c = await ethers.getContractAt("ConsentRegistry", "YOUR_CONTRACT_ADDRESS")
+ls
+clear
+await c.consents(1)   // Check consent with ID = 1
+const c = await ethers.getContractAt("ConsentRegistry", "YOUR_CONTRACT_ADDRESS")
+await c.consents(1)
+const c = await ethers.getContractAt("ConsentRegistry", "YOUR_CONTRACT_ADDRESS")
+console.log(addr)
+const addr = await contract.recoverSigner(dataHash, signature)
+const signature = "0x34c0de..."  // from event
+const dataHash = "0x32f5f6..."   // from event
+await contract.consents(0)
+const contract = await ethers.getContractAt("ConsentRegistry", "0x5FbDB2315678afecb367f032d93F642f64180aa3");
+await contract.consents(0)

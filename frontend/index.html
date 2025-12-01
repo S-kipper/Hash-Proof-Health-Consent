@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Healthcare Consent Form</title>
+    <style>
+        body {
+            font-family: Arial;
+            width: 600px;
+            margin: 40px auto;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+        }
+        button {
+            padding: 12px 20px;
+            margin-top: 15px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Patient Consent Form</h2>
+
+    <label>Full Name</label>
+    <input type="text" id="name" placeholder="Enter your name">
+
+    <label>Date of Birth</label>
+    <input type="date" id="dob">
+
+    <label>Purpose of Data Collection</label>
+    <textarea id="purpose">Collecting heart rate, blood pressure, and age data for healthcare analysis.</textarea>
+
+    <label>Additional Notes (optional)</label>
+    <textarea id="notes"></textarea>
+
+    <button onclick="submitConsent()">Submit Consent</button>
+
+    <h3 id="status"></h3>
+
+    <script src="app.js"></script>
+</body>
+</html>

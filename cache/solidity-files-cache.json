@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Blockchain Consent Project\\Blockchain_Consent\\contracts\\ConsentRegistry.sol": {
+      "lastModificationDate": 1764227607182,
+      "contentHash": "a980ffb8212f3cb542e912ec15225691",
+      "sourceName": "contracts/ConsentRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "ConsentRegistry"
+      ]
+    }
+  }
+}
